@@ -3,7 +3,7 @@ name = "csunix/recursiveray"
 description = "Smart recursive ray for interacting with the physical worldspace."
 license = "MIT"
 version = "1.0.0"
-include = 
+include = ["LICENSE", "lib", "default.project.json"]
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
